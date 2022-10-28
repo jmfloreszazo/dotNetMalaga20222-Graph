@@ -11,7 +11,7 @@ namespace CosmosDb.GremlinApi
 		private const string DatabaseName = "graphdb";
 		private const string GraphName = "airport";
 
-		public async static Task Run()
+		public static async Task Run()
 		{
 			Debugger.Break();
 

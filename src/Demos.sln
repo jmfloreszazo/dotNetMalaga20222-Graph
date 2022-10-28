@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32630.193
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDb.GremlinApi", "CosmosDb.GremlinApi\CosmosDb.GremlinApi.csproj", "{92FFEA50-8E95-495B-9F15-CA6A1889B298}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.GremlinApi", "CosmosDb.GremlinApi\CosmosDb.GremlinApi.csproj", "{92FFEA50-8E95-495B-9F15-CA6A1889B298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo4J.DriverDemo", "Neo4J.Sample\Neo4J.DriverDemo.csproj", "{D7DE71B7-8956-4279-A869-6652DCF9C890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{92FFEA50-8E95-495B-9F15-CA6A1889B298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92FFEA50-8E95-495B-9F15-CA6A1889B298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92FFEA50-8E95-495B-9F15-CA6A1889B298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DE71B7-8956-4279-A869-6652DCF9C890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DE71B7-8956-4279-A869-6652DCF9C890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DE71B7-8956-4279-A869-6652DCF9C890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DE71B7-8956-4279-A869-6652DCF9C890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
