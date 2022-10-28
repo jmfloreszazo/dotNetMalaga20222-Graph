@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32630.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDb.GremlinApi", "CosmosDb.GremlinApi\CosmosDb.GremlinApi.csproj", "{92FFEA50-8E95-495B-9F15-CA6A1889B298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92FFEA50-8E95-495B-9F15-CA6A1889B298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FFEA50-8E95-495B-9F15-CA6A1889B298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FFEA50-8E95-495B-9F15-CA6A1889B298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FFEA50-8E95-495B-9F15-CA6A1889B298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7BA95A2-AEE3-4D48-819C-1D022095E9DE}
+	EndGlobalSection
+EndGlobal
